@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T15:31:21.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="fse_8ucNN_hJKHPMple6" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T15:32:16.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ycM_ZxKSIAknIVP9WevY" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3101" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rwsjK8wrvo-BfNU32ZgP-0" value="朋友觉得&lt;br style=&quot;font-size: 29px;&quot;&gt;简历行不行？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=29;fontFamily=Georgia;" parent="NFNQKHVkb_bmbVsBZRoB-101" vertex="1">
-          <mxGeometry x="225.52" y="685" width="234.46" height="130" as="geometry" />
+          <mxGeometry x="217.76" y="665" width="249.98" height="155" as="geometry" />
         </mxCell>
         <mxCell id="rwsjK8wrvo-BfNU32ZgP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=29;fontFamily=Georgia;" parent="NFNQKHVkb_bmbVsBZRoB-101" source="ZqWD20Xh-i8jmS281j4s-15" target="rwsjK8wrvo-BfNU32ZgP-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
