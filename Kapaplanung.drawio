@@ -1,4 +1,4 @@
-<mxfile version="13.6.2" type="github" host="app.diagrams.net" modified="2020-08-17T08:31:05.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="N6pVsj4D7df6XLsqfjjA">
+<mxfile version="13.6.2" type="github" host="app.diagrams.net" modified="2020-08-17T08:33:17.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="jE4CmI6AAIvSpAAHQsNl">
   <diagram id="pmVqA4_8w3MGrxTZM_4p" name="Page-1">
     <mxGraphModel grid="1" dx="924" dy="541" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="6G9BHcsA6yj-WhviCnKq-7" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6G9BHcsA6yj-WhviCnKq-2" target="6G9BHcsA6yj-WhviCnKq-3">
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
-        <mxCell id="6G9BHcsA6yj-WhviCnKq-2" value="Umrechnen die Kennzahlen in gesamt Prozesszeit&amp;nbsp;" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1">
+        <mxCell id="6G9BHcsA6yj-WhviCnKq-2" value="Umrechnen die Kennzahlen in Gesamt- Prozesszeit&amp;nbsp;" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1">
           <mxGeometry as="geometry" y="143.75" x="440" width="100" height="82.5" />
         </mxCell>
         <mxCell id="6G9BHcsA6yj-WhviCnKq-10" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6G9BHcsA6yj-WhviCnKq-3" target="6G9BHcsA6yj-WhviCnKq-8">
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
-        <mxCell id="6G9BHcsA6yj-WhviCnKq-3" value="Kopieren Gesamt Prozesszeit in Kapaplanung" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1">
+        <mxCell id="6G9BHcsA6yj-WhviCnKq-3" value="Kopieren Gesamt- Prozesszeit in Kapaplanung" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1">
           <mxGeometry as="geometry" y="142.5" x="590" width="100" height="85" />
         </mxCell>
         <mxCell id="6G9BHcsA6yj-WhviCnKq-6" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6G9BHcsA6yj-WhviCnKq-4" target="6G9BHcsA6yj-WhviCnKq-2">
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="6G9BHcsA6yj-WhviCnKq-13" value="&lt;span style=&quot;font: 12px / 1.2 &amp;#34;helvetica&amp;#34; ; text-align: center ; color: rgb(0 , 0 , 0) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; text-decoration: none ; word-spacing: 0px ; display: inline ; float: none ; overflow-wrap: normal ; background-color: rgb(248 , 249 , 250)&quot;&gt;Sammeln &lt;/span&gt;Serie LKW" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1">
           <mxGeometry as="geometry" y="240" x="30" width="90" height="40" />
+        </mxCell>
+        <mxCell id="6G9BHcsA6yj-WhviCnKq-19" value="Beispielerweise:" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" y="60" x="40" width="40" height="20" />
         </mxCell>
       </root>
     </mxGraphModel>
