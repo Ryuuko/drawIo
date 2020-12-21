@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T01:42:48.413Z" agent="5.0 (Windows)" etag="0DOl1fv9IhvM5TIarkrQ" version="14.1.1" type="github"><diagram id="wgfZWlndpPb6lriinT3L" name="Page-1">1ZTLbsIwEEW/JstKeUBhCzTQDVJVWoG6M/E0duvEwZk0ga+vnTgvIaR2U6kbyz4ztsf3TuIEq6TaKJKxraQgHN+llRM8OL4/m/t6NODcgEngNSBWnDZoAHb8Aha6lhacQj5KRCkF8mwMI5mmEOGIEaVkOU57l2J8a0ZiuAK7iIhruucUWUPnU7fnj8Bj1t7suTaSkDbZgpwRKssBCkInWCkpsZkl1QqE0a7Vpdm3vhHtClOQ4k82hJPNy2l9OGwXYn/xP+7Xb7P4zp7yRURhH/yag9GYmfEp3NZ6m+qLY8LRiGrEBoX8nUcETdYzFCfI0b4Sz610ShYpBXO75wTLknGEXUYiEy11r2jGMBE2TI65FAXCQkW2CWraryZ6maOSn50PWsGlLV/XA9VNXbxObd2lIBNAddYpdsO0dcx2qNd6W/Z+d66yodctJLbH4u7s3gY9sU78whX/ypUNpKAauWs7/qvY3Xf9F2LrZf951bHBPyoIvwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T01:48:57.856Z" agent="5.0 (Windows)" etag="vSmlXw1c_d776xYI3Hfg" version="14.1.1" type="github">
+  <diagram id="wgfZWlndpPb6lriinT3L" name="Page-1">
+    <mxGraphModel dx="782" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E4GTqFXXMAlWz2j6FZ7g-1" value="Server: Use the PEM to submit a certificate Reqest " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="570" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nPseD-tby-9EjqKL2M8q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E4GTqFXXMAlWz2j6FZ7g-2" target="E4GTqFXXMAlWz2j6FZ7g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4GTqFXXMAlWz2j6FZ7g-2" value="ISE: Generate PEM according to the issuers&#39; Infos " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="390" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nPseD-tby-9EjqKL2M8q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPseD-tby-9EjqKL2M8q-2" target="nPseD-tby-9EjqKL2M8q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPseD-tby-9EjqKL2M8q-2" value="Server: Download a CA Certificate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nPseD-tby-9EjqKL2M8q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nPseD-tby-9EjqKL2M8q-3" target="E4GTqFXXMAlWz2j6FZ7g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPseD-tby-9EjqKL2M8q-3" value="ISE: Import the certificate into the store of trusted Certificates " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
